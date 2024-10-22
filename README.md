@@ -1,3 +1,15 @@
+#programming paradigms project
+
+TEAM MEMBERS:
+
+Names             PRN
+Abdulelah ALolofi	23070122009
+Abhay Pandey	    23070122010
+Abhilaksh Saini	  23070122011
+Ali Naif Al-Tam	  23070122022
+
+
+
 # Library-Managment-System
 A comprehensive Library Management System built using C++, showcasing the use of OOP concepts and linked lists for efficient book and user management. This project supports features like adding and removing books, user registration, borrowing and returning books with late fee calculation, and admin functionality to manage the library efficiently.
 
@@ -22,6 +34,8 @@ Calculate late fees based on return date
 5. Data Abstraction with Date Handling
 Input and display issue, due, and return dates
 Check if books are returned after the due date
+
+
 🛠️ Tech Stack
 Language: C++
 Concepts Used: OOP, Linked Lists, Polymorphism, Virtual Functions
